@@ -1,0 +1,12 @@
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\bin\Debug\StudentAccessApplication.exe.config
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\bin\Debug\StudentAccessApplication.exe
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\bin\Debug\StudentAccessApplication.pdb
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.csprojAssemblyReference.cache
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.Form1.resources
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.Properties.Resources.resources
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.csproj.GenerateResource.cache
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.csproj.CoreCompileInputs.cache
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.exe
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.pdb
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.Form2.resources
+C:\Users\2019stu05\source\repos\StudentAccessApplication\StudentAccessApplication\obj\Debug\StudentAccessApplication.Form3.resources
